@@ -1,0 +1,35 @@
+html {
+    font-size: 18px;
+    
+}
+
+body {
+    padding-top: 50px;
+    font-family: 'PT Serif', serif;
+    color: #2E303B;
+}
+
+h1, h2, h3, h4, h5 , .btn {
+    font-family: 'Fjalla One', sans-serif;
+    color: #CD483F;
+}
+
+a {
+    color: #CD483F;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.navbar-default {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 1.1rem;
+    background: #fff;
+    border: none;    
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    background: #CD483F;
+    color: #fff;
+}
