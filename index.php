@@ -93,7 +93,7 @@
 <div class="bg-green-dark">
     <div class="container italic">
         <div class="n-l-form-info">
-            <i class="fa fa-info" aria-hidden="true"></i>
+            <i class="fa fa-quote-left" aria-hidden="true"></i>
             <p>Zjednodusili sme pre vas vyhladavanie, zahodili skaredy formular a urobili to lepsie</p>
             <p>Kliknite na lubovolnu polozku ktora je podciarknuta.</p>
             <p><small>S laskou vas tym ok-reality.sk</small></p>
@@ -107,7 +107,8 @@
         <div class="row">
             <div class="col-lg-4 right">
                 <h2>Garzonky <span>[12x]</span></h2>
-                <p class="text">Ponúkame na <strong>predaj</strong> neogotický kaštieľ v <a>od 20,200 Eur</a> obci Kolta ( okres Nové Zámky ), ktorý bol postavený koncom 19 storočia. Kaštieľ slúžil ako letné sídlo manželky generála a veľkostatkára Károlya Meszárosa. V architektúre stavby prevláda štýl romantizmu a použili sa neogotické <a>od 20,200 Eur</a> a výtvarné prvky. Stavba predstavuje vidiecke sídlo </p>
+                <p class="perex">Potrebujes vypadnut od rodicov, si student a hladas slusne zazemie pre svoje aktivity, svoj vlastny priestor a klud ? </p>
+                <p class="text">U nas najdes <strong>Garzonky </strong> od 22 000 Ero az po 56 000 Eur zalezi od toho ako bohateho mas tatka :) Rozmerovo mame k dispozicii od 22m<sup>2</sup> az po 45m<sup>2</sup> a pokial si poluchal a nosil dom dobre znamky, radi ti v sekcii <a>Uvery na byvanie</a> poradime ako na to.</p>
                 <div class="tags">
                     
                 </div>

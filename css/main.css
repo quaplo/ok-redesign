@@ -26,6 +26,7 @@
 
 
 
+
 .prop-list h4 {
     color: #fff;
     color: #2E303B;
@@ -78,7 +79,7 @@ h2 {
 
 h2 span {
     font-weight: normal;
-    color: #92C393;
+    color:#2E303B;
     font-size: 80%; 
     display: block;
 }
@@ -159,12 +160,25 @@ a.btn-primary {
     font-size: 2rem;
 }
 
+.section-home p {
+    color: #888C67;
+}
+
 .section-home p a {
     font-weight: bold;
     border-bottom:1px solid  #CD483F;
     padding: 0 10px;
     font-style: italic;
+    
 }
+
+.section-home p.perex {
+    color: #2E303B;
+    font-size: 1.3rem;
+    font-weight: bold;
+        line-height: 1.6rem;
+}
+
 
 .bg-green-dark {
     background: #888C67;
@@ -187,13 +201,13 @@ a.btn-primary {
 
 .bg-green-dark i.fa {
     display: block;
-    height: 50px;
-    width: 50px;
+    height: 80px;
+    width: 80px;
     
     margin: 0 auto;
-    line-height: 50px;
+    line-height: 80px;
     background: #2E303B;
-    margin-top: -55px;
+    margin-top: -65px;
     font-size: 2rem;
     
 -webkit-border-radius: 50%;
