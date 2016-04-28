@@ -1,6 +1,7 @@
 
 @import "layout.css";
 @import "n-l-form.css";
+@import "typography.css";
 
 .prop-list {
     background: #2E303B;
@@ -13,12 +14,7 @@
     overflow: hidden;
 }
 
-.bg-f {
-    position: absolute;
-    font-size: 10rem;
-    color: #A9CAA9;
-        line-height: 12rem;
-}
+
 .prop-list.bg-2 {
     background: #E89B8D;
     color: #2E303B;
@@ -220,7 +216,7 @@ border-radius: 50%;
     background: #92C393;
     padding: 40px 0;
     font-family: 'Fjalla One', sans-serif;
-    font-size: 4rem;
+    
     text-align: center;
 }
 

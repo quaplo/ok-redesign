@@ -125,7 +125,6 @@
                     <img class="prsnt" src="http://nucleusproperties.in/uploads/interior/interior_design_image1423034853.jpg" />
                     <div class="row">
                         <div class="col-lg-6">
-                            <span class="bg-f">0<sup>&#8364;</sup></span>
                             <h4>Zobrazit  Garzonky podla ceny</h4>
                             <ul class="section-nav">
                                 <li><a href="#">Do 30 000 Eur</a></li>
@@ -133,7 +132,6 @@
                             </ul>                             
                         </div>
                         <div class="col-lg-6">
-                            <span class="bg-f">m<sup>2</sup></span>
                             <h4>Zobrazit  Garzonky podla velkosti</h4>
                             <ul class="section-nav">
                                 <li><a href="#">Do 30 000 Eur</a></li>
