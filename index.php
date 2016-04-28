@@ -105,7 +105,7 @@
 <div class="bg-1">
     <div class="container section-home">
         <div class="row">
-            <div class="col-lg-4 right">
+            <div class="col-lg-6 right">
                 <h2>Garzonky <span>[12x]</span></h2>
                 <p class="perex">Potrebujes vypadnut od rodicov, si student a hladas slusne zazemie pre svoje aktivity, svoj vlastny priestor a klud ? </p>
                 <p class="text">U nas najdes <strong>Garzonky </strong> od 22 000 Ero az po 56 000 Eur zalezi od toho ako bohateho mas tatka :) Rozmerovo mame k dispozicii od 22m<sup>2</sup> az po 45m<sup>2</sup> a pokial si poluchal a nosil dom dobre znamky, radi ti v sekcii <a>Uvery na byvanie</a> poradime ako na to.</p>
@@ -145,20 +145,7 @@
                
             </div>        
             
-            <div class="col-lg-2">
-                <div class="prop-list bg-2 m-b">
-                    
-                    <img class="prsnt" src="http://4.bp.blogspot.com/-msGd1InSt70/Uywm-E2RroI/AAAAAAAABfk/wunxQFb6g-g/s1600/torino_google-map.png" />
-                    <h4>Lokalita</h4>
-                    <ul class="section-nav">
-                        <li><a href="#">Bratislava</a></li>
-                        <li><a href="#">Nove zamky</a></li>
-                        <li><a href="#">Piestany</a></li>                        
-                    </ul>    
-                                   
-                </div>
-                <a class="btn btn-lg btn-primary btn-block center">Zobrazit na mape</a>   
-            </div>                   
+                
         
             
         </div>
@@ -171,20 +158,7 @@
     <div class="container section-home">
         <div class="row">
             
-            <div class="col-lg-2">
-                <div class="prop-list bg-2 m-b">
-                    
-                    <img class="prsnt" src="http://4.bp.blogspot.com/-msGd1InSt70/Uywm-E2RroI/AAAAAAAABfk/wunxQFb6g-g/s1600/torino_google-map.png" />
-                    <h4>Lokalita</h4>
-                    <ul class="section-nav">
-                        <li><a href="#">Bratislava</a></li>
-                        <li><a href="#">Nove zamky</a></li>
-                        <li><a href="#">Piestany</a></li>                        
-                    </ul>    
-                                   
-                </div>
-                <a class="btn btn-lg btn-primary btn-block center">Zobrazit na mape</a>   
-            </div>              
+            
             
             <div class="col-lg-6  ">
                 <div class="prop-list ">
@@ -211,7 +185,7 @@
                
             </div>             
             
-            <div class="col-lg-4 left">
+            <div class="col-lg-6 left">
                 <h2>Rodinne domy <span>[12x]</span></h2>
                 <p class="perex">Potrebujes vypadnut od rodicov, si student a hladas slusne zazemie pre svoje aktivity, svoj vlastny priestor a klud ? </p>
                 <p class="text">U nas najdes <strong>Garzonky </strong> od 22 000 Ero az po 56 000 Eur zalezi od toho ako bohateho mas tatka :) Rozmerovo mame k dispozicii od 22m<sup>2</sup> az po 45m<sup>2</sup> a pokial si poluchal a nosil dom dobre znamky, radi ti v sekcii <a>Uvery na byvanie</a> poradime ako na to.</p>
@@ -235,6 +209,24 @@
     </div>    
 </div>
 
+
+<div class="bg-green-dark m-b">
+    <div class="container italic">
+        <div class="row">
+            <div class="col-lg-3"></div>
+            <div class="col-lg-6">
+            <i class="fa fa-paper-plane" aria-hidden="true"></i>
+            <p>Nemate cas hladat ? Chapeme, zanechajte nam svoj email ozveme sa vam.</p>
+            
+             <p><input type="text" class="form-control" placeholder="email"></p>  
+             <br/>       
+            <a class="btn btn-lg btn-primary center">Kontaktujte ma</a>                  
+            </div>
+            <div class="col-lg-3"></div>
+        </div>
+
+    </div>
+</div>    
 
 
 

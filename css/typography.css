@@ -1,6 +1,12 @@
-    .bg-green {
-        font-size: 2rem;
-    }
+.bg-green {
+    font-size: 2rem;
+}
+
+.bg-green a.btn {
+    padding: 15px 30px;
+    font-size: 1rem; 
+    margin: 25px 0;   
+}
 
 
 /* Small devices (tablets, 768px and up) */
@@ -10,6 +16,10 @@
         font-size: 2rem;
     }
     
+    .bg-green a.btn {
+        font-size: 1.3rem; 
+    }    
+    
  }
 
 /* Medium devices (desktops, 992px and up) */
@@ -18,6 +28,9 @@
     .bg-green {
         font-size: 3rem;
     }
+    .bg-green a.btn {
+        font-size: 1.8rem; 
+    }      
     
  }
 
@@ -27,5 +40,9 @@
     .bg-green {
         font-size: 4rem;
     }
+    
+    .bg-green a.btn {
+        font-size: 2rem; 
+    }      
     
  }

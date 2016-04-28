@@ -15,7 +15,7 @@
 }
 
 
-.prop-list.bg-2 {
+.prop-list.section-map {
     background: #E89B8D;
     color: #2E303B;
 }
@@ -192,7 +192,7 @@ a.btn-primary {
     font-size: 1.1rem;
 }
 .bg-green-dark p small {
-    color: #A5A5A5;
+    color: #888C67;
 }
 
 .bg-green-dark i.fa {
@@ -229,8 +229,7 @@ border-radius: 50%;
 .bg-green a.btn {
     border: none;
     background: #CD483F;
-    padding: 15px 30px;
-    font-size: 2rem;
+
 }
 
 .bg-green a:hover {
