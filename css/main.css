@@ -3,12 +3,10 @@
 @import "n-l-form.css";
 @import "typography.css";
 
-.prop-list {
-    background: #2E303B;
-}
+
 
 .prop-list {
-    background: #92C393;
+    
     color: #2E303B;
     position: relative;
     overflow: hidden;

@@ -84,7 +84,7 @@
             Hladam <a><i class="fa fa-angle-down" aria-hidden="true"></i> Garzonku</a> v stave <a>po Rekonstrukcii</a> v Lokalite <a>Nove Zamky</a> v cene <a>do 20 000</a> Euro 
             <br/>
             
-            <a class="btn btn-lg btn-primary"><i class="fa fa-paper-plane storke" aria-hidden="true"></i> Zobrazit 31 vysledkov</a>
+            <a class="btn btn-lg btn-primary"><i class="fa fa-check storke" aria-hidden="true"></i> Zobrazit 31 vysledkov</a>
         </div>
     </div>
 </div>   
@@ -105,32 +105,21 @@
 <div class="bg-1">
     <div class="container section-home">
         <div class="row">
-            <div class="col-lg-6 right">
+            <div class="col-lg-6 col-sm-6 right">
                 <h2>Garzonky <span>[12x]</span></h2>
                 <p class="perex">Potrebujes vypadnut od rodicov, si student a hladas slusne zazemie pre svoje aktivity, svoj vlastny priestor a klud ? </p>
-                <p class="text">U nas najdes <strong>Garzonky </strong> od 22 000 Ero az po 56 000 Eur zalezi od toho ako bohateho mas tatka :) Rozmerovo mame k dispozicii od 22m<sup>2</sup> az po 45m<sup>2</sup> a pokial si poluchal a nosil dom dobre znamky, radi ti v sekcii <a>Uvery na byvanie</a> poradime ako na to.</p>
-                <div class="tags">
-                    
-                </div>
-                
+                <p class="text visible-lg">U nas najdes <strong>Garzonky </strong> od 22 000 Ero az po 56 000 Eur zalezi od toho ako bohateho mas tatka :) Rozmerovo mame k dispozicii od 22m<sup>2</sup> az po 45m<sup>2</sup> a pokial si poluchal a nosil dom dobre znamky, radi ti v sekcii <a>Uvery na byvanie</a> poradime ako na to.</p>
 
-                
-                <div class="right">
-                    <a class="btn btn-lg btn-primary center">Zobrazit vsetky  "Garzonky"</a>
-                </div>
-            </div>
-            
-            <div class="col-lg-6  ">
-                <div class="prop-list ">
-                    <img class="prsnt" src="http://nucleusproperties.in/uploads/interior/interior_design_image1423034853.jpg" />
+
                     <div class="row">
+
                         <div class="col-lg-6">
                             <h4>Zobrazit  Garzonky podla ceny</h4>
                             <ul class="section-nav">
                                 <li><a href="#">Garzonky Do 30 000 Eur</a></li>
                                 <li><a href="#">Garzonky od 30 000 Eur</a></li>
                             </ul>                             
-                        </div>
+                        </div>                        
                         <div class="col-lg-6">
                             <h4>Zobrazit  Garzonky podla velkosti</h4>
                             <ul class="section-nav">
@@ -138,16 +127,40 @@
                                 <li><a href="#">Garzonky nad 40m<sup>2</sup></a></li>
                             </ul>                              
                         </div>
+                      
                     </div>
 
-                                       
+                <div class="right">
+                    <a class="btn btn-lg btn-primary center">Zobrazit vsetky  "Garzonky"</a>
                 </div>
-               
+            </div>
+            
+            <div class="col-lg-6  col-sm-6">
+                <div class="prop-list ">
+                    <img class="prsnt" src="http://nucleusproperties.in/uploads/interior/interior_design_image1423034853.jpg" />
+                    <div class="row">
+                        <div class="col-lg-4 col-sm-6 col-xs-6">
+                            <div class="promo-view">
+                                <img class="prsnt" src="http://ok-reality.sk/files/gallery/thumbs/9b51e0357a564d3119fd0624be800680.jpg" />
+                                <strong class="locality">Bratislava</strong>
+                                <div class="meta">
+                                    <span class="price">22000 Eur</span>
+                                    -
+                                    <span class="prop">72m<sup>2</sup></span>                                    
+                                </div>
+                            </div>
+                                                       
+                        </div>      
+                        <div class="col-lg-4 col-sm-6 col-xs-6">
+                            <img class="prsnt" src="http://ok-reality.sk/files/gallery/thumbs/9b51e0357a564d3119fd0624be800680.jpg" />                           
+                        </div>    
+                        <div class="col-lg-4 col-sm-6 col-xs-6">
+                            <img class="prsnt" src="http://ok-reality.sk/files/gallery/thumbs/9b51e0357a564d3119fd0624be800680.jpg" />                           
+                        </div>                                                                         
+
+                    </div>
+                </div>
             </div>        
-            
-                
-        
-            
         </div>
     </div>    
 </div>
@@ -164,20 +177,24 @@
                 <div class="prop-list ">
                     <img class="prsnt" src="http://4.bp.blogspot.com/-cWKYiZqwlHQ/UTTqp0yyS8I/AAAAAAAAoA0/bFpnudPQqCY/s1600/Modern+house+exterior++front+designs+ideas..jpg" />
                     <div class="row">
-                        <div class="col-lg-6">
+
+                        <div class="col-lg-4">
                             <h4>Zobrazit  Garzonky podla ceny</h4>
                             <ul class="section-nav">
                                 <li><a href="#">Garzonky Do 30 000 Eur</a></li>
                                 <li><a href="#">Garzonky od 30 000 Eur</a></li>
                             </ul>                             
-                        </div>
-                        <div class="col-lg-6">
+                        </div>                        
+                        <div class="col-lg-4">
                             <h4>Zobrazit  Garzonky podla velkosti</h4>
                             <ul class="section-nav">
                                 <li><a href="#">Garzonky Do 40m<sup>2</sup></a></li>
                                 <li><a href="#">Garzonky nad 40m<sup>2</sup></a></li>
                             </ul>                              
                         </div>
+                        <div class="col-lg-4">
+                            <img class="prsnt" src="http://ok-reality.sk/files/gallery/thumbs/9b51e0357a564d3119fd0624be800680.jpg" />                           
+                        </div>                        
                     </div>
 
                                        
