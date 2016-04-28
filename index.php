@@ -7,13 +7,16 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>ok-reality.sk - redesign</title>
     <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-    
-<link href='https://fonts.googleapis.com/css?family=Fjalla+One&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-<link href='https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+        
+    <link href='https://fonts.googleapis.com/css?family=Fjalla+One&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 
     <!-- Bootstrap -->
+    <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
+
+
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -78,9 +81,9 @@
 <div class="bg-green">
     <div class="container">
         <div class="n-l-form">
-            Hladam <a>Garzonku</a> v stave <a>po Rekonstrukcii</a> v Lokalite <a>Nove Zamky</a> v cene <a>do 20 000</a> Euro 
+            Hladam <a><i class="fa fa-angle-down" aria-hidden="true"></i> Garzonku</a> v stave <a>po Rekonstrukcii</a> v Lokalite <a>Nove Zamky</a> v cene <a>do 20 000</a> Euro 
             <br/>
-            <a class="btn btn-lg btn-primary">Zobrazit 31 vysledkov</a>
+            <a class="btn btn-lg btn-primary"><i class="fa fa-paper-plane storke" aria-hidden="true"></i> Zobrazit 31 vysledkov</a>
         </div>
     </div>
 </div>   
@@ -89,8 +92,10 @@
 <div class="bg-green-dark">
     <div class="container italic">
         <div class="n-l-form-info">
+            <i class="fa fa-info" aria-hidden="true"></i>
             <p>Zjednodusili sme pre vas vyhladavanie, zahodili skaredy formular a urobili to lepsie</p>
             <p>Kliknite na lubovolnu polozku ktora je podciarknuta.</p>
+            <p><small>S laskou vas tym ok-reality.sk</small></p>
         </div>
     </div>
 </div>    
