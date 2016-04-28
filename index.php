@@ -127,17 +127,15 @@
                         <div class="col-lg-6">
                             <h4>Zobrazit  Garzonky podla ceny</h4>
                             <ul class="section-nav">
-                                <li><a href="#">Do 30 000 Eur</a></li>
-                                <li><a href="#">od 30 000 Eur</a></li>
+                                <li><a href="#">Garzonky Do 30 000 Eur</a></li>
+                                <li><a href="#">Garzonky od 30 000 Eur</a></li>
                             </ul>                             
                         </div>
                         <div class="col-lg-6">
                             <h4>Zobrazit  Garzonky podla velkosti</h4>
                             <ul class="section-nav">
-                                <li><a href="#">Do 30 000 Eur</a></li>
-                                <li><a href="#">od 30 000 Eur</a></li>
-                                <li><a href="#">Do 30 000 Eur</a></li>
-                                <li><a href="#">Do 30 000 Eur Us</a></li>
+                                <li><a href="#">Garzonky Do 40m<sup>2</sup></a></li>
+                                <li><a href="#">Garzonky nad 40m<sup>2</sup></a></li>
                             </ul>                              
                         </div>
                     </div>
@@ -154,9 +152,8 @@
                     <h4>Lokalita</h4>
                     <ul class="section-nav">
                         <li><a href="#">Bratislava</a></li>
-                        <li><a href="#">Bratislava</a></li>
-                        <li><a href="#">Bratislava</a></li>
-                        <li><a href="#">Bratislava Us</a></li>
+                        <li><a href="#">Nove zamky</a></li>
+                        <li><a href="#">Piestany</a></li>                        
                     </ul>    
                                    
                 </div>
@@ -170,12 +167,86 @@
 
 
 
+<div class="bg-2">
+    <div class="container section-home">
+        <div class="row">
+            
+            <div class="col-lg-2">
+                <div class="prop-list bg-2 m-b">
+                    
+                    <img class="prsnt" src="http://4.bp.blogspot.com/-msGd1InSt70/Uywm-E2RroI/AAAAAAAABfk/wunxQFb6g-g/s1600/torino_google-map.png" />
+                    <h4>Lokalita</h4>
+                    <ul class="section-nav">
+                        <li><a href="#">Bratislava</a></li>
+                        <li><a href="#">Nove zamky</a></li>
+                        <li><a href="#">Piestany</a></li>                        
+                    </ul>    
+                                   
+                </div>
+                <a class="btn btn-lg btn-primary btn-block center">Zobrazit na mape</a>   
+            </div>              
+            
+            <div class="col-lg-6  ">
+                <div class="prop-list ">
+                    <img class="prsnt" src="http://4.bp.blogspot.com/-cWKYiZqwlHQ/UTTqp0yyS8I/AAAAAAAAoA0/bFpnudPQqCY/s1600/Modern+house+exterior++front+designs+ideas..jpg" />
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <h4>Zobrazit  Garzonky podla ceny</h4>
+                            <ul class="section-nav">
+                                <li><a href="#">Garzonky Do 30 000 Eur</a></li>
+                                <li><a href="#">Garzonky od 30 000 Eur</a></li>
+                            </ul>                             
+                        </div>
+                        <div class="col-lg-6">
+                            <h4>Zobrazit  Garzonky podla velkosti</h4>
+                            <ul class="section-nav">
+                                <li><a href="#">Garzonky Do 40m<sup>2</sup></a></li>
+                                <li><a href="#">Garzonky nad 40m<sup>2</sup></a></li>
+                            </ul>                              
+                        </div>
+                    </div>
+
+                                       
+                </div>
+               
+            </div>             
+            
+            <div class="col-lg-4 left">
+                <h2>Rodinne domy <span>[12x]</span></h2>
+                <p class="perex">Potrebujes vypadnut od rodicov, si student a hladas slusne zazemie pre svoje aktivity, svoj vlastny priestor a klud ? </p>
+                <p class="text">U nas najdes <strong>Garzonky </strong> od 22 000 Ero az po 56 000 Eur zalezi od toho ako bohateho mas tatka :) Rozmerovo mame k dispozicii od 22m<sup>2</sup> az po 45m<sup>2</sup> a pokial si poluchal a nosil dom dobre znamky, radi ti v sekcii <a>Uvery na byvanie</a> poradime ako na to.</p>
+                <div class="tags">
+                    
+                </div>
+                
+
+                
+                <div class="left">
+                    <a class="btn btn-lg btn-primary center">Zobrazit vsetky  "Garzonky"</a>
+                </div>
+            </div>
+            
+       
+            
+                 
+        
+            
+        </div>
+    </div>    
+</div>
+
 
 
 
 <div class="container"><div class="row">
     <div class="col-lg-3">
-        <img class="prsnt" src="http://ok-reality.sk/files/gallery/thumbs/8904b0b810384e37d05938962a02fa11.jpg" />
+        <div class="promo-item">
+            <strong>Nove zamky</strong>
+            <img class="prsnt" src="http://ok-reality.sk/files/gallery/thumbs/8904b0b810384e37d05938962a02fa11.jpg" />
+            <p>22 000 Eur</p>
+            <p> 66m<sup>2</sup></p>
+        </div>
+        
     </div>
     <div class="col-lg-3">
         <img class="prsnt" src="http://ok-reality.sk/files/gallery/thumbs/7d4771f85b03ded55dcd6026a07291e2.jpg" />
@@ -186,7 +257,8 @@
     <div class="col-lg-3">
         <img class="prsnt" src="https://pixabay.com/static/uploads/photo/2015/11/07/21/29/living-1032733_960_720.jpg" />
     </div>            
-    </div></div>
+    </div>
+</div>
 
 
 

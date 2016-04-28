@@ -106,12 +106,12 @@ a.btn-primary {
     text-align: right;
 }
 
-.bg-1 {
-    
-    min-height: 200px;
+.bg-1,.bg-2 {
     padding: 70px 0;
-    
-    
+}
+
+.bg-2 {
+    background: #F7F7F7;
 }
 
 .pict {
@@ -237,3 +237,23 @@ border-radius: 50%;
     text-decoration: none;
 }
 
+
+
+.promo-item {
+    background: #2E303B;
+    color: #fff;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.promo-item p {
+    padding: 0 10px;
+    font-size: 1rem;    
+}
+
+.promo-item strong {
+    display: block;
+    background: #CD483F;
+    padding: 10px;
+    font-size: 1.1rem;
+}
