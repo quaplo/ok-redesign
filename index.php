@@ -83,6 +83,7 @@
         <div class="n-l-form">
             Hladam <a><i class="fa fa-angle-down" aria-hidden="true"></i> Garzonku</a> v stave <a>po Rekonstrukcii</a> v Lokalite <a>Nove Zamky</a> v cene <a>do 20 000</a> Euro 
             <br/>
+            
             <a class="btn btn-lg btn-primary"><i class="fa fa-paper-plane storke" aria-hidden="true"></i> Zobrazit 31 vysledkov</a>
         </div>
     </div>
@@ -111,12 +112,7 @@
                     
                 </div>
                 
-                <div class="right m-b">
-                    <a class="btn btn-xs btn-link">Nove zamky </a>
-                    <a class="btn btn-xs btn-link">Brno </a>
-                    <a class="btn btn-xs btn-link">Surany </a>
-                    <a class="btn btn-xs btn-link">Sahy </a>
-                </div>
+
                 
                 <div class="right">
                     <a class="btn btn-lg btn-primary center">Zobrazit vsetky  "Garzonky"</a>
@@ -196,111 +192,49 @@
 
 
 
-<div class="bg-1">
-    <div class="container section-home">
-        <div class="row">
+
+<div id="footer" class="bg-green-dark">
+        <div class="container shadow">
             
-            
-            <div class="col-lg-6">
-                <div id="carousel-example-generic" class="carousel slide m-b" data-ride="carousel">
-                <!-- Indicators -->
-
-
-                <!-- Wrapper for slides -->
-                <div class="carousel-inner" role="listbox">
-                    <div class="item active">
-                    <div class="carousel-caption">
-
-                    </div>
-                        <div class="pict carousel-article" >
-                            <h3>
-                                <a>Garzonka - Nove zamky
-                                    </a>
-                                </h3>
-                                <span class="status">Po ciastocnej rekonstrukcii</span>
-                            <span>21580Eur - 62m<sup>2</sup></span>
-                                                    
-                        </div>      
-                    </div>
-                    <div class="item">
-                    <div class="carousel-caption">
-
-                    </div>
-                        <div class="pict carousel-article" >
-                            <h3>
-                                <a>Garzonka - Nove zamky
-                                    </a>
-                                </h3>
-                                <span class="status">Po ciastocnej rekonstrukcii</span>
-                            <span>21580Eur - 62m<sup>2</sup></span>
-                                                    
-                        </div>      
-                    </div>
-                    
+            <div class="row">
+                <div class="col-md-4 col-sm-4">
+                    <strong class="first h5"><span class="glyphicon glyphicon-leaf"></span> Kariéra</strong>
+                    <p class="quote">                        
+                         Ak si šikovný obchodník, máš dobré komunikačné schopnosti a vystupovanie, máš chuť tvrdo pracovať, vzdelávať sa a nadpriemerne zarábať, neváhaj nás kontaktovať. Viac info v sekcii <a href="/services/kariera">Kariéra</a>.
+                    </p>
                 </div>
+                <div class="col-md-4 col-sm-4">
+                    <strong class="h5"><span class="glyphicon glyphicon-star"></span> Odkazy na užitočné stránky</strong>
+                    <ul>
+                        <li><span class="glyphicon glyphicon-chevron-right"></span><a target="_blank" rel="nofollow" href="http://www.orsr.sk">Obchodný register</a></li> 
+                        <li><span class="glyphicon glyphicon-chevron-right"></span><a target="_blank" rel="nofollow" href="http://www.katasterportal.sk/kapor/">Katastrálny portál</a></li> 
+                        <li><span class="glyphicon glyphicon-chevron-right"></span><a target="_blank" rel="nofollow" href="http://www.zrsr.sk">Živnostenský register</a></li> 
 
-                <!-- Controls -->
-                <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-                    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                    <span class="sr-only">Previous</span>
-                </a>
-                <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-                    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                    <span class="sr-only">Next</span>
-                </a>
+                        <li><span class="glyphicon glyphicon-chevron-right"></span><a target="_blank" rel="nofollow" href="http://jaspi.justice.gov.sk/jaspiw1/jaspiw_mini_fr0.htm">JASPI (jednotný automatizovaný systém právnych informácií)</a></li> 
+                        <li><span class="glyphicon glyphicon-chevron-right"></span><a target="_blank" rel="nofollow" href="http://www.finance.gov.sk/Default.aspx?CatID=8698">Dane z nehnuteľností (portal.gov.sk)</a></li> 
+                        <li><span class="glyphicon glyphicon-chevron-right"></span><a target="_blank" rel="nofollow" href="http://www.uzemneplany.sk/uvod">Územné plány</a></li> 
+                        <li><span class="glyphicon glyphicon-chevron-right"></span><a href="/services/faq">Užitočné informácie</a></li>
+                    </ul>
                 </div>
-                
-                
-                
-                <div class="row">
-                    
-                    <div class="col-lg-4">
-                        <div class="pics-small">
-                            <i class="glyphicon glyphicon-plus"></i>
-                            <a class="btn">Viac moznosti</a>
-                        </div>
-                    </div>                     
-                    
-                    <div class="col-lg-4">
-                        <div class="pics-small">
-                            <img src="http://ok-reality.sk/files/gallery/thumbs/a846f7c4a59055f4c79d6b8725a33444.jpg" />
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="pics-small">
-                            <img src="http://ok-reality.sk/files/gallery/thumbs/d26051da3fc16de87c206bd2af0d8636.jpg" />
-                        </div>
-                    </div>
-                   
-                </div>
-                
-                
-                
-                
+                <div class="col-md-4 col-sm-4">
+                    <strong class="h5"><span class="glyphicon glyphicon-th-list"></span> Mapa stránok</strong>
+                    <ul>
+                        <li><span class="glyphicon glyphicon-chevron-right"></span><a href="/">Úvod</a></li>
+                        <li><span class="glyphicon glyphicon-chevron-right"></span><a href="/services/about/">O nás</a></li>
+                        <li><span class="glyphicon glyphicon-chevron-right"></span><a href="/services/">Nase sluzby</a></li>
+                        <li><span class="glyphicon glyphicon-chevron-right"></span><a href="/services/addShare">Vložte ponuku</a></li>
+                        <li><span class="glyphicon glyphicon-chevron-right"></span><a href="/services/addF">Vložte dopyt</a></li>
+                        <li><span class="glyphicon glyphicon-chevron-right"></span><a href="/services/contact">Kontakt</a></li> 
+                        <li><span class="glyphicon glyphicon-chevron-right"></span><a rel="nofollow" href="https://www.facebook.com/pages/OK-Reality/1482726558637298?ref=hl" target="_blank">Ok-reality na Facebooku</a></li> 
+                        
+                    </ul> 
+                </div>                
             </div>            
             
-            <div class="col-lg-6 left">
-                <h2>Pozemky <span>(8)</span></h2>
-                <p class="text">Ponúkame na <strong>predaj</strong> neogotický kaštieľ v <a>od 20,200 Eur</a> obci Kolta ( okres Nové Zámky ), ktorý bol postavený koncom 19 storočia. Kaštieľ slúžil ako letné sídlo manželky generála a veľkostatkára Károlya Meszárosa. V architektúre stavby prevláda štýl romantizmu a použili sa neogotické <a>od 20,200 Eur</a> a výtvarné prvky. Stavba predstavuje vidiecke sídlo </p>
-                <div class="tags">
-                    
-                </div>
-                
-                <div class=" m-b">
-                    <a class="btn btn-xs btn-link">Nove zamky </a>
-                    <a class="btn btn-xs btn-link">Brno </a>
-                    <a class="btn btn-xs btn-link">Surany </a>
-                    <a class="btn btn-xs btn-link">Sahy </a>
-                </div>
-                
-                <div class="left">
-                    <a class="btn btn-lg btn-primary center">Dostupnost</a>
-                </div>
-            </div>            
             
+
         </div>
-    </div>    
-</div>
+    </div>
 
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
