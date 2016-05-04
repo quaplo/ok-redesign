@@ -217,7 +217,7 @@ border-radius: 50%;
     background: #92C393;
     background: #2e303b;
     background-image: url(../img/hp-top-bg01.jpg);
-    background-attachment: fixed;
+    /*background-attachment: fixed;*/
     background-size: cover;
     background-position: center bottom;
     padding: 70px 0;
@@ -229,7 +229,8 @@ border-radius: 50%;
 .bg-green a {
     color: #fff;
     border-bottom: 3px solid #CD483F;
-    
+color: #2E303B;
+    border-bottom: 3px solid #2E303B;    
     
 }
 
@@ -237,7 +238,7 @@ border-radius: 50%;
 .bg-green a.btn {
     border: none;
     background: #CD483F;
-
+color: #fff;
 }
 
 .bg-green a:hover {
