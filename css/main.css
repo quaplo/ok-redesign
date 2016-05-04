@@ -228,7 +228,7 @@ border-radius: 50%;
 
 .bg-green a {
     color: #fff;
-    border-bottom: 3px solid #fff;
+    border-bottom: 3px dashed #fff;
     
     
 }
