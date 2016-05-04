@@ -37,7 +37,8 @@ a {
     font-family: 'Fjalla One', sans-serif;
     font-size: 1.1rem;
     background: #fff;
-        border-bottom: 5px solid #CD483F; 
+    border-bottom: 5px solid #CD483F;
+    border: none;
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {

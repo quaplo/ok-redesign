@@ -12,6 +12,20 @@ h4 {
     font-size: 1.4rem;
 }
 
+.navbar-nav>li>a {
+    padding-top: 25px;
+    padding-bottom: 25px;    
+}
+
+.navbar-brand {
+    height: 70px;
+    width: 105px;
+    display: block;
+    background-image: url(http://ok-reality.sk/img/OK-reality.png);
+    background-size: cover;
+    background-position: center top;
+}
+
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) { 
     
