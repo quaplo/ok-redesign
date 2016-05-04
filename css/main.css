@@ -212,7 +212,10 @@ border-radius: 50%;
 
 .bg-green {
     background: #92C393;
-    padding: 40px 0;
+    background-image: url(../img/hp-top-bg01.jpg);
+    background-size: cover;
+    background-position: center bottom;
+    padding: 70px 0;
     font-family: 'Fjalla One', sans-serif;
     
     text-align: center;
