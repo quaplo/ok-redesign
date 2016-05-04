@@ -209,9 +209,13 @@ a.btn-primary {
 border-radius: 50%;    
 }
 
+.n-l-form {
+    color: #fff;
+}
 
 .bg-green {
     background: #92C393;
+    background: #2e303b;
     background-image: url(../img/hp-top-bg01.jpg);
     background-size: cover;
     background-position: center bottom;
@@ -223,7 +227,9 @@ border-radius: 50%;
 
 .bg-green a {
     color: #fff;
-    border-bottom: 3px dotted #fff;
+    border-bottom: 3px solid #CD483F;
+    
+    
 }
 
 
