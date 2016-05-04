@@ -217,7 +217,7 @@ border-radius: 50%;
     background: #92C393;
     background: #2e303b;
     background-image: url(../img/hp-top-bg01.jpg);
-    /*background-attachment: fixed;*/
+    background-attachment: fixed;
     background-size: cover;
     background-position: center bottom;
     padding: 70px 0;
