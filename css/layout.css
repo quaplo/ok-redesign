@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    padding-top: 50px;
+    /*padding-top: 50px;*/
     font-family: 'PT Serif', serif;
     color: #2E303B;
 }
@@ -22,6 +22,14 @@ a {
     color: #CD483F;
 }
 
+.navbar-brand {
+    background: #fff;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+
 .italic {
     font-style: italic;
 }
@@ -33,10 +41,21 @@ a {
    -webkit-text-stroke-color: #fff;    
 }
 
+.navbar-nav>li>.dropdown-menu {
+    background: #CD483F;
+    border-color: #CD483F;
+    border-radius: 0;    
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+    background: #CD483F;
+    border-color: #CD483F;    
+}
+
 .navbar-default {
     font-family: 'Fjalla One', sans-serif;
     font-size: 1.1rem;
-    background: #fff;
+    background: rgba(0, 0, 0, 0.44);
     border-bottom: 5px solid #CD483F;
     border: none;
 }
